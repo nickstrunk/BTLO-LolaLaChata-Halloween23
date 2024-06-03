@@ -121,6 +121,12 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <br />
 <br />
 
+<h3>Q8) What is the exact address where Detective Rodriguez can find Lola's body? (Format: Address)</h3>
+** Letter1 decoded using spammimic.com with password: mydearlola  <br />
+** ANSWER TO Q8) La Lomita, 45640 Tlajomulco de Zúñiga, Jalisco, Mexico <br /> <br />
+<br />
+<br />
+
 <h3>Q9) What is the name of the other lover of Lola? (Format: Full Name)</h3>
 ** Investigate betrayal.txt <br />
 ** ANSWER TO Q9) Javier Antonio Rodríguez Morales <br /> <br />
@@ -148,6 +154,11 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <br />
 <br />
 
+<h3>Q13) Finally, What is the exact GPS location of Lola’s body? - WRITE DOWN YOUR ANSWER, YOU'LL NEED IT FOR THE FINAL HALLOWEEN LAB! (Format: longitude, latitude)</h3>
+** Letter2 decoded using spammimic.com with password: mydearlola  <br />
+** ANSWER TO Q13) 20.480135, -103.44236 <br /> <br />
+<br />
+<br />
 </p>
 
 <!--
