@@ -7,7 +7,8 @@ Renowned detective, Detective Rodriguez, known for cracking every case he encoun
 
 In the pursuit of answers, various pieces of evidence have been gathered. Now, Detective Rodriguez stands on the precipice of a crucial step: investigating the shared desktop computer of Lola and her husband, Hector.
 
-Here's where you come in. You are now stepping into the shoes of Detective Rodriguez. Can you unravel the mystery? Will you be able to solve the case, bringing closure to Lola's friends and relatives, or will her disappearance remain an unsolvable enigma, haunting the hearts of those who loved her? The fate of this mystery lies in your hands
+Here's where you come in. You are now stepping into the shoes of Detective Rodriguez. Can you unravel the mystery? Will you be able to solve the case, bringing closure to Lola's friends and relatives, or will her disappearance remain an unsolvable enigma, haunting the hearts of those who loved her? The fate of this mystery lies in your hands.
+In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectionately known as "Lola La
 <br />
 
 
@@ -25,28 +26,25 @@ Here's where you come in. You are now stepping into the shoes of Detective Rodri
 <p align="center">
 <h3>Q1) What is the full path of the encrypted storage?</h3>
 <b>Look into Lab Files on Desktop</b> <br/>
-* Translate Message from Lola La Chata to Mr Rodriguez
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Planning Diagram"/>
+- Translate Message from Lola La Chata to Mr Rodriguez <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
+ 
+* Read More About Scenario <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
+<br />
+* Translate Message from Lola La Chata to Mr Rodriguez <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
 
 <b>Browser Program Files for Clues to Installed Software</b> <br/>
 * OSINT VeraCrypt - Disk Encryption Software
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/f03ce4a0-be94-45ce-9f13-86a7aa55fe59" height="80%" width="80%" alt="Planning Diagram"/>
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/f03ce4a0-be94-45ce-9f13-86a7aa55fe59" height="80%" width="80%" alt="VeraCrypt Found"/>
 <br />
 <br />
-<b>Set Up IP Addressing:</b> <br/>
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/0e89e34f-1e39-4e07-a98b-c96f3da20198" height="80%" width="80%" alt="Network Interface Cards"/>
-<br />
-<br />
-* No default gateway because the domain controller serves as the default gateway
-<br />
-* Active directory automatically installs DNS, so there server will use itself as the DNS server. Can use either its own IP address (172.16.0.1) or loopback address (127.0.0.1)
-<br />
-<br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/1914bbad-8393-437e-ad44-ef71e65595b2" height="80%" width="80%" alt="Internal Addressing"/>
-<br />
-<br />
+
 
 </p>
 
