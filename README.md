@@ -8,7 +8,12 @@ Renowned detective, Detective Rodriguez, known for cracking every case he encoun
 In the pursuit of answers, various pieces of evidence have been gathered. Now, Detective Rodriguez stands on the precipice of a crucial step: investigating the shared desktop computer of Lola and her husband, Hector.
 
 Here's where you come in. You are now stepping into the shoes of Detective Rodriguez. Can you unravel the mystery? Will you be able to solve the case, bringing closure to Lola's friends and relatives, or will her disappearance remain an unsolvable enigma, haunting the hearts of those who loved her? The fate of this mystery lies in your hands.
-In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectionately known as "Lola La
+
+In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectionately known as "Lola La Chata," left the community in shock. Lola was a beloved member of the town, known for her kindness and warm spirit. The local police, led by detective Rodriguez, launched an investigation to unravel the mystery behind her disappearance.
+
+Detective Rodriguez focused the investigation on Lola's home and her husband, Hector Salamanca. Suspicion fell upon him due to the strained relationship between the couple. With a search warrant in hand, the detective and his team meticulously combed through the Salamance residence.
+
+--You, yes YOU. You will be the detective. Can you crack this case, Mr. Rodriguez?
 <br />
 
 
