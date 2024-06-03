@@ -3,11 +3,11 @@
  <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)/> -->
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab environment using
-Oracle Virtual Box. Configuring and running this lab will definitely help your understanding of how 
-active directory and windows networking works, so I'd highly recommend running through it a couple times,
-ask questions where stuff is unclear, and eventually try to build your own without watching. Please let
-me know if you have any questions!
+Renowned detective, Detective Rodriguez, known for cracking every case he encounters, found himself facing a daunting challenge: the sudden disappearance of his close friend, Lola. Determined to help, Rodriguez delves into the investigation with a fierce resolve.
+
+In the pursuit of answers, various pieces of evidence have been gathered. Now, Detective Rodriguez stands on the precipice of a crucial step: investigating the shared desktop computer of Lola and her husband, Hector.
+
+Here's where you come in. You are now stepping into the shoes of Detective Rodriguez. Can you unravel the mystery? Will you be able to solve the case, bringing closure to Lola's friends and relatives, or will her disappearance remain an unsolvable enigma, haunting the hearts of those who loved her? The fate of this mystery lies in your hands
 <br />
 
 
