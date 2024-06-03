@@ -69,8 +69,8 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
-<b>Investigate silenteye</b> <br /> <br />
-** Run silenteye.exe as Admin > Check for update - displays version
+<b>Investigate silenteye</b> <br />
+** Run silenteye.exe as Admin > Check for update - displays version <br />
 ** ANSWER TO Q3) 0.4.1 <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
 <br />
