@@ -30,19 +30,15 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
- 
 ** Read More About Scenario <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
-
-
 <b>Browse Program Files for Clues to Installed Software</b> <br/>
 ** OSINT VeraCrypt - Disk Encryption Software <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/f03ce4a0-be94-45ce-9f13-86a7aa55fe59" height="80%" width="80%" alt="VeraCrypt Found"/>
 <br />
 <br />
-
 <b>Investigate VeraCrypt files</b> <br/>
 ** OSINT .hc VeraCrypt File Extension - Encrypted files with VeraCrypt <br />
 ** ANSWER TO Q1) C:\Program Files\VeraCrypt\HectorFiles.hc <br /> <br />
@@ -73,33 +69,28 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
- 
-** Read More About Scenario <br /> <br />
+<b>Investigate silenteye</b> <br /> <br />
+** Run silenteye.exe as Admin > Check for update - displays version
+** ANSWER TO Q3) 0.4.1 <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
+
+<h3>Q4) What is the verion of the steno tool used to unhide this secret letter form an audio file? (Format: X.XX)</h3>
+<b>Investigate decoding MyDealLola.jpg</b> <br/>
+** Open in silenteye > Decode > Passphrase: (potential passphrases from Ditto) <br />
+** FOUND Passphrase that worked: juarez <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/b1058681-9603-4393-9a93-b8bf2eeb4001" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
+<b>Investigate silenteye</b> <br /> <br />
+** Run silenteye.exe as Admin > Check for update - displays version
+** ANSWER TO Q3) 0.4.1 <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
 
 
-<b>Browse Program Files for Clues to Installed Software</b> <br/>
-** OSINT VeraCrypt - Disk Encryption Software <br /> <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/f03ce4a0-be94-45ce-9f13-86a7aa55fe59" height="80%" width="80%" alt="VeraCrypt Found"/>
-<br />
-<br />
-
-<b>Investigate VeraCrypt files</b> <br/>
-** OSINT .hc VeraCrypt File Extension - Encrypted files with VeraCrypt <br />
-** ANSWER TO Q1) C:\Program Files\VeraCrypt\HectorFiles.hc <br /> <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/0a1406c3-7b2a-4883-a2f0-0893362a1400" height="80%" width="80%" alt="VeraCrypt Found"/>
-<br />
-<br />
-<b>Investigate newly mounted storage</b> <br/>
-** Letters_To_Lola - Image capture Spanish message > Image to text converter to get text > Translate Spanish text to English <br /> <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/48f646fb-5e50-4ed2-88e3-23ca8a822fd1" height="80%" width="80%" alt="Translated Message"/>
-<br />
-<br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/2977f1c7-c0dd-4be1-87ae-dcdea716f6bc" height="80%" width="80%" alt="Translated Message"/>
-<br />
-<br />
 
 
 <h3>Q7) Going back to Letters_To_Lola.rtf there is a highlighted word, What is the spanish word and its english counterpart? (Format: spanish, english)</h3>
