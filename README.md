@@ -98,6 +98,14 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 
 <h3>Q7) Going back to Letters_To_Lola.rtf there is a highlighted word, What is the spanish word and its english counterpart? (Format: spanish, english)</h3>
 ** ANSWER TO Q7) traicion, betrayal <br />
+<br />
+<br />
+<h3>Q11) Who plotted the kill of Lola and Javier? (Format: Name)</h3>
+** In HectorFiles > To_Detective_Rodriguez.txt > Tells who ordered the killings <br />
+** ANSWER TO Q7) Hector <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/1f6dbaee-9706-4360-80bd-79e3ec30296a" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
 </p>
 
 <!--
