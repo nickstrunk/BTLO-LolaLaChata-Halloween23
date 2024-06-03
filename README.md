@@ -24,7 +24,7 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<h3>Q1) What is the full path of the encrypted storage?</h3>
+<h3>Q1) What is the full path of the encrypted storage? (Format: C:\path\to\name.ext)</h3>
 <b>Look into Lab Files on Desktop</b> <br/>
 ** Translate Message from Lola La Chata to Mr Rodriguez <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
@@ -50,6 +50,15 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <br />
 ** ANSWER TO Q1) C:\Program Files\VeraCrypt\HectorFiles.hc <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/0a1406c3-7b2a-4883-a2f0-0893362a1400" height="80%" width="80%" alt="VeraCrypt Found"/>
+<br />
+<br />
+
+<h3>Q2) What Encryption Algorithm and Type of the encrypted storage? (Format: algorithm, type)</h3>
+<b>Look into Lab Files on Desktop</b> <br/>
+** Translate Message from Lola La Chata to Mr Rodriguez <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
 </p>
 
 <!--
