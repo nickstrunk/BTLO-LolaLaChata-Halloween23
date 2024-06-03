@@ -66,7 +66,7 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 ** Investigating Program Files again but not finding anything related to silenteye or openpuff <br />
 ** Enabled hidden files under View > check Hidden items - No clues in local drive <br />
 ** FOUND silenteye - Enabled hidden files in disk with HectorFiles (hidden folder "hate") <br /> <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/83a0a1e2-31af-40aa-a0c3-6b4b66429e8b" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
 <b>Investigate silenteye</b> <br />
