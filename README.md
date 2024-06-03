@@ -26,39 +26,51 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <p align="center">
 <h3>Q1) What is the full path of the encrypted storage? (Format: C:\path\to\name.ext)</h3>
 <b>Look into Lab Files on Desktop</b> <br/>
-** Translate Message from Lola La Chata to Mr Rodriguez <br />
+** Translate Message from Lola La Chata to Mr Rodriguez <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
  
-** Read More About Scenario <br />
+** Read More About Scenario <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
 
 
 <b>Browse Program Files for Clues to Installed Software</b> <br/>
-** OSINT VeraCrypt - Disk Encryption Software
+** OSINT VeraCrypt - Disk Encryption Software <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/f03ce4a0-be94-45ce-9f13-86a7aa55fe59" height="80%" width="80%" alt="VeraCrypt Found"/>
 <br />
 <br />
 
 <b>Investigate VeraCrypt files</b> <br/>
 ** OSINT .hc VeraCrypt File Extension - Encrypted files with VeraCrypt <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/2a5969a5-4855-451f-b843-33c75485ddc4" height="80%" width="80%" alt="VeraCrypt Found"/>
-<br />
-<br />
-** ANSWER TO Q1) C:\Program Files\VeraCrypt\HectorFiles.hc <br />
+** ANSWER TO Q1) C:\Program Files\VeraCrypt\HectorFiles.hc <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/0a1406c3-7b2a-4883-a2f0-0893362a1400" height="80%" width="80%" alt="VeraCrypt Found"/>
 <br />
 <br />
 
 <h3>Q2) What Encryption Algorithm and Type of the encrypted storage? (Format: algorithm, type)</h3>
-<b>Look into Lab Files on Desktop</b> <br/>
-** Translate Message from Lola La Chata to Mr Rodriguez <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
+<b>Decrypt storage and mount to open drives</b> <br/>
+** Select HectorFiles.hc - Need Password to mount<br />
+** Investigate running tools - Ditto <br />
+** OSINT Ditto - Clipboard Manager (password could be copied to clipboard at some point) <br />
+** Try possible passwords from Ditto <br />
+** Found one that worked <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/7bb486b8-8b6d-4e93-8c93-a0b2bfc16d08" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
+<b>Investigate newly mounted storage</b> <br/>
+** Letters_To_Lola - Image capture Spanish message > Image to text converter to get text > Translate Spanish text to English <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/48f646fb-5e50-4ed2-88e3-23ca8a822fd1" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/2977f1c7-c0dd-4be1-87ae-dcdea716f6bc" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
+
+<h3>Q7) Going back to Letters_To_Lola.rtf there is a highlighted word, What is the spanish word and its english counterpart? (Format: spanish, english)</h3>
+** ANSWER TO Q7) traicion, betrayal <br />
 </p>
 
 <!--
