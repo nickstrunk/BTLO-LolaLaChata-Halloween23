@@ -14,12 +14,12 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>SilentEye</b> 
+- <b>OpenPuff</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
