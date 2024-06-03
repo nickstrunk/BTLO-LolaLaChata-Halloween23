@@ -24,8 +24,9 @@ Here's where you come in. You are now stepping into the shoes of Detective Rodri
 
 <p align="center">
  
-<b>Preplanning of Project:</b> <br/>
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/b7fdcb80-8215-4dc0-97c4-d26252a353cb" height="80%" width="80%" alt="Planning Diagram"/>
+<b>Look into Lab Files on Desktop</b> <br/>
+* Translate Message from Lola La Chata to Mr Rodriguez
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Planning Diagram"/>
 <br />
 <br />
  
