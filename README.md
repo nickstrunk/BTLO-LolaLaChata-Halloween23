@@ -101,22 +101,44 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <b>Investigate From_Juarez.txt</b> <br />
 ** Translate beginning line of Spanish to English <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/260a57ff-7e97-4567-8dd8-06d4a8da3baf" height="80%" width="80%" alt="Translated Message"/>
-** ANSWER TO Q) <br /> <br />
+<br />
+<br />
+<b>Using OpenPuff to unhide data with steps in From_Juarez.txt</b> <br />
+** Add Carriers > BTLO REPLAY presents PRETIUM Retired Blue Team Lab Walkthrough.mp3 > Enter passwords A,B, uncheck C like instructed > Unhide! to Desktop <br />
+** Complete same process for rest of files in Hector_Files according to instructions in From_Juarez.txt > Creates files Letter1_from_Gustavo, Letter2_from_Gustavo, info.txt, betrayal.txt<br />
+** ANSWER TO Q5) BTLO REPLAY presents PRETIUM Retired Blue Team Lab Walkthrough.mp3 (found Letter1_from_Gustavor when unhidden)<br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/7009ea17-5883-4026-957e-0eddbed74bdd" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
 
-
-
+<h3>Q6) What is the full file name of the carrier audio file where Letter2_from_Gustavo.rtf can be found? (Format: filename.ext)</h3>
+** ANSWER TO Q6) Michael Jackson - Smooth Criminal (Official Video).mp3 (found Letter2_from_Gustavo when unhidden) <br />
+<br />
+<br />
 
 <h3>Q7) Going back to Letters_To_Lola.rtf there is a highlighted word, What is the spanish word and its english counterpart? (Format: spanish, english)</h3>
 ** ANSWER TO Q7) traicion, betrayal <br />
 <br />
 <br />
 
+
+<h3>Q10) Who killed Lola? (Format: Full Name)</h3>
+** Translate info.txt from Spanish to English<br />
+** ANSWER TO Q10) Gustavo de Jesús Gaviria Rivero <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/03e1b4a3-18db-4f84-a923-3989a41244cd" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
+
+
 <h3>Q11) Who plotted the kill of Lola and Javier? (Format: Name)</h3>
 ** In HectorFiles > To_Detective_Rodriguez.txt > Tells who ordered the killings <br />
 ** ANSWER TO Q11) Hector <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/1f6dbaee-9706-4360-80bd-79e3ec30296a" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
+
+<h3>Q12) What cartel does Hector Salamanca belong? Perform OSINT (Format: Cartel Name)</h3>
+** ANSWER TO Q12) Juarez <br />
 <br />
 <br />
 
