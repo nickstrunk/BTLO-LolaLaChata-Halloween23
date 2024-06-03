@@ -43,7 +43,13 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <br />
 <br />
 
-
+<b>Investigate VeraCrypt files</b> <br/>
+** OSINT .hc VeraCrypt File Extension - Encrypted files with VeraCrypt <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/2a5969a5-4855-451f-b843-33c75485ddc4" height="80%" width="80%" alt="VeraCrypt Found"/>
+<br />
+<br />
+** ANSWER TO Q1) C:\Program Files\VeraCrypt\HectorFiles.hc <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/0a1406c3-7b2a-4883-a2f0-0893362a1400" height="80%" width="80%" alt="VeraCrypt Found"/>
 </p>
 
 <!--
