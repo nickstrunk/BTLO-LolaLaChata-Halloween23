@@ -26,21 +26,19 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <p align="center">
 <h3>Q1) What is the full path of the encrypted storage?</h3>
 <b>Look into Lab Files on Desktop</b> <br/>
-- Translate Message from Lola La Chata to Mr Rodriguez <br />
+** Translate Message from Lola La Chata to Mr Rodriguez <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
  
-* Read More About Scenario <br />
+** Read More About Scenario <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
-<br />
-* Translate Message from Lola La Chata to Mr Rodriguez <br /> <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
 
-<b>Browser Program Files for Clues to Installed Software</b> <br/>
-* OSINT VeraCrypt - Disk Encryption Software
+
+<b>Browse Program Files for Clues to Installed Software</b> <br/>
+** OSINT VeraCrypt - Disk Encryption Software
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/f03ce4a0-be94-45ce-9f13-86a7aa55fe59" height="80%" width="80%" alt="VeraCrypt Found"/>
 <br />
 <br />
