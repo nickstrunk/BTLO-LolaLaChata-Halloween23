@@ -98,12 +98,10 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/c03c3204-e84e-4775-b263-7ba90ab098f7" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
-<b>Investigate using new potential password to mount HectorFiles again</b> <br />
-** Dismount HecktorFiles > Remount HectorFies using password: romanceisdead > Successfully mounts <br />
-** Mounted drive now shows more and new folders and files > "hate" now contains OpenPuff (OSINT: Steganography tool) <br /)
-** Run OpenPuff as Admin > Version displayed in top left of application <br />
-** ANSWER TO Q4) 4.01 <br /> <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/a85f9569-d7ca-4abb-85f5-740dd1309062" height="80%" width="80%" alt="Translated Message"/>
+<b>Investigate From_Juarez.txt</b> <br />
+** Translate beginning line of Spanish to English <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/260a57ff-7e97-4567-8dd8-06d4a8da3baf" height="80%" width="80%" alt="Translated Message"/>
+** ANSWER TO Q) <br /> <br />
 <br />
 <br />
 
