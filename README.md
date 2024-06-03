@@ -23,18 +23,18 @@ Here's where you come in. You are now stepping into the shoes of Detective Rodri
 <h2>Program walk-through:</h2>
 
 <p align="center">
- 
+<h3>Q1) What is the full path of the encrypted storage?</h3>
 <b>Look into Lab Files on Desktop</b> <br/>
 * Translate Message from Lola La Chata to Mr Rodriguez
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/49faa3bf-5d8b-471a-be1d-2f4101a8ffbc)" height="80%" width="80%" alt="Planning Diagram"/>
 <br />
 <br />
- 
-<b>DC Installation (Server ISO):</b>  <br/>
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/8679325e-bd56-47df-b4cc-43c1231c8c47" height="80%" width="80%" alt="DC Installation"/>
+
+<b>Browser Program Files for Clues to Installed Software</b> <br/>
+* OSINT VeraCrypt - Disk Encryption Software
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/f03ce4a0-be94-45ce-9f13-86a7aa55fe59" height="80%" width="80%" alt="Planning Diagram"/>
 <br />
 <br />
- 
 <b>Set Up IP Addressing:</b> <br/>
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/0e89e34f-1e39-4e07-a98b-c96f3da20198" height="80%" width="80%" alt="Network Interface Cards"/>
 <br />
