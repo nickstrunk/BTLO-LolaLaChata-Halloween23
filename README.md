@@ -79,14 +79,17 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <h3>Q4) What is the verion of the steno tool used to unhide this secret letter form an audio file? (Format: X.XX)</h3>
 <b>Investigate decoding MyDealLola.jpg</b> <br/>
 ** Open in silenteye > Decode > Passphrase: (potential passphrases from Ditto) <br />
-** FOUND Passphrase that worked: juarez <br /> <br />
+** FOUND Passphrase that worked: juarez (message contains potential future password)<br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/b1058681-9603-4393-9a93-b8bf2eeb4001" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
-<b>Investigate silenteye</b> <br /> <br />
-** Run silenteye.exe as Admin > Check for update - displays version
-** ANSWER TO Q3) 0.4.1 <br /> <br />
-<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/ae817c95-8d87-4d61-a4eb-636352910366" height="80%" width="80%" alt="Translated Message"/>
+
+<b>Investigate using new potential password to mount HectorFiles again</b> <br />
+** Dismount HecktorFiles > Remount HectorFies using password: romanceisdead > Successfully mounts <br />
+** Mounted drive now shows more and new folders and files > "hate" now contains OpenPuff (OSINT: Steganography tool) <br /)
+** Run OpenPuff as Admin > Version displayed in top left of application <br />
+** ANSWER TO Q4) 4.01 <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/a85f9569-d7ca-4abb-85f5-740dd1309062" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
 
