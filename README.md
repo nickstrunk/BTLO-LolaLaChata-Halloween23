@@ -121,6 +121,12 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <br />
 <br />
 
+<h3>Q9) What is the name of the other lover of Lola? (Format: Full Name)</h3>
+** Investigate betrayal.txt <br />
+** ANSWER TO Q9) Javier Antonio Rodríguez Morales <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/2c6cabaa-ad76-47c0-8bdc-d1d38da544f0" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
 
 <h3>Q10) Who killed Lola? (Format: Full Name)</h3>
 ** Translate info.txt from Spanish to English<br />
