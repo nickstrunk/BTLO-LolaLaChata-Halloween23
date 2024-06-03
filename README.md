@@ -83,7 +83,21 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/b1058681-9603-4393-9a93-b8bf2eeb4001" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
+<b>Investigate using new potential password to mount HectorFiles again</b> <br />
+** Dismount HecktorFiles > Remount HectorFies using password: romanceisdead > Successfully mounts <br />
+** Mounted drive now shows more and new folders and files > "hate" now contains OpenPuff (OSINT: Steganography tool) <br /)
+** Run OpenPuff as Admin > Version displayed in top left of application <br />
+** ANSWER TO Q4) 4.01 <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/a85f9569-d7ca-4abb-85f5-740dd1309062" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
 
+<h3>Q5) What is the full file name of the carrier audio file where Letter1_from_Gustavo.rtf can be found? (Format: filename.ext)</h3>
+<b>Try using silenteye to decode MyDearLola.jpg </b> <br/>
+**  Decode using Passphrase: juarez > decoded file From_Juarez.txt > Saved to Desktop <br /> <br />
+<img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/c03c3204-e84e-4775-b263-7ba90ab098f7" height="80%" width="80%" alt="Translated Message"/>
+<br />
+<br />
 <b>Investigate using new potential password to mount HectorFiles again</b> <br />
 ** Dismount HecktorFiles > Remount HectorFies using password: romanceisdead > Successfully mounts <br />
 ** Mounted drive now shows more and new folders and files > "hate" now contains OpenPuff (OSINT: Steganography tool) <br /)
@@ -100,12 +114,14 @@ In a quiet town, the disappearance of María Dolores Estévez Zuleta, affectiona
 ** ANSWER TO Q7) traicion, betrayal <br />
 <br />
 <br />
+
 <h3>Q11) Who plotted the kill of Lola and Javier? (Format: Name)</h3>
 ** In HectorFiles > To_Detective_Rodriguez.txt > Tells who ordered the killings <br />
-** ANSWER TO Q7) Hector <br /> <br />
+** ANSWER TO Q11) Hector <br /> <br />
 <img src="https://github.com/nickstrunk/LolaLaChata-Halloween23/assets/165805194/1f6dbaee-9706-4360-80bd-79e3ec30296a" height="80%" width="80%" alt="Translated Message"/>
 <br />
 <br />
+
 </p>
 
 <!--
