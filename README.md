@@ -117,18 +117,18 @@ Detective Rodriguez focused the investigation on Lola's home and her husband, He
 <br />
 
 <h3>Q6) What is the full file name of the carrier audio file where Letter2_from_Gustavo.rtf can be found? (Format: filename.ext)</h3>
-** ANSWER TO Q6) Michael Jackson - Smooth Criminal (Official Video).mp3 (found Letter2_from_Gustavo when unhidden) <br />
+** ANSWER TO Q6) Michael Jackson - Smooth Criminal (Official Video).mp3 (found Letter2_from_Gustavo when unhidden) 
 <br />
 <br />
 
 <h3>Q7) Going back to Letters_To_Lola.rtf there is a highlighted word, What is the spanish word and its english counterpart? (Format: spanish, english)</h3>
-** ANSWER TO Q7) traicion, betrayal <br />
+** ANSWER TO Q7) traicion, betrayal
 <br />
 <br />
 
 <h3>Q8) What is the exact address where Detective Rodriguez can find Lola's body? (Format: Address)</h3>
 ** Letter1 decoded using spammimic.com with password: mydearlola  <br />
-** ANSWER TO Q8) La Lomita, 45640 Tlajomulco de Zúñiga, Jalisco, Mexico <br /> <br />
+** ANSWER TO Q8) La Lomita, 45640 Tlajomulco de Zúñiga, Jalisco, Mexico
 <br />
 <br />
 
@@ -155,13 +155,13 @@ Detective Rodriguez focused the investigation on Lola's home and her husband, He
 <br />
 
 <h3>Q12) What cartel does Hector Salamanca belong? Perform OSINT (Format: Cartel Name)</h3>
-** ANSWER TO Q12) Juarez <br />
+** ANSWER TO Q12) Juarez
 <br />
 <br />
 
 <h3>Q13) Finally, What is the exact GPS location of Lola’s body? - WRITE DOWN YOUR ANSWER, YOU'LL NEED IT FOR THE FINAL HALLOWEEN LAB! (Format: longitude, latitude)</h3>
 ** Letter2 decoded using spammimic.com with password: mydearlola  <br />
-** ANSWER TO Q13) 20.480135, -103.44236 <br /> <br />
+** ANSWER TO Q13) 20.480135, -103.44236
 <br />
 <br />
 </p>
